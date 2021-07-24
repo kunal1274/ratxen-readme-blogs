@@ -1,4 +1,5 @@
 # ratxen-readme-blogs
+
 # Parallel Creation of WEB vs NATIVE REACT APP
 
 ---
@@ -14,6 +15,8 @@
 > C:\Users\\jns\Desktop\2\dev\learn-reactjs>yarn start
 
 ![](image/README/1627145679634.png)
+
+
 
 ### Comparison 1 : Basic Comparison - Running the Initial App
 
@@ -192,13 +195,11 @@ const styles = StyleSheet.create({
 
 ![](image/README/1627153201151.png)
 
-RN - 
+RN -
 
 ![](image/README/1627153247496.png)
 
-
 [Overall picture from react Native documentation-](https://reactnative.dev/docs/intro-react-native-components)
-
 
 
 | REACT NATIVE UI COMPONENT | ANDROID VIEW | IOS VIEW | WEB ANALOG | DESCRIPTION |
